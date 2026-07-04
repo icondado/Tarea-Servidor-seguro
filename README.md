@@ -8,6 +8,11 @@ Ahora partiremos de la solución de la tarea anterior y añadiremos los diferent
 Nuestro servidor seguro estará compuesto por las mismas pantallas que ya tenía y simplemente se añadirá una primera pantalla de login:
 
 ## Pantalla Inicio sesión/Registro.
+
+A continuación se detalla la pantalla de inicio (`img0.png`):
+
+![Wireframe de la aplicación](img0.png)
+
     Donde estará el formulario de inicio de sesión y registro.
       - Cuando se pulse en el botón de registro, se permanecerá en la misma pantalla y aparecerá un mensaje diciendo si el registro ha sido correcto o incorrecto.
       - En el caso de pulsar el botón login, si el logueo no se ha realizado correctamente, se permanecerá en la misma pantalla mostrando el correspondiente mensaje de error. Y si se realiza correctamente, pasará a la ruta /inicio, que será la página principal que ya teníamos de nuestro servidor ITV.
