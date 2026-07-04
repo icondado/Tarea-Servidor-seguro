@@ -1,0 +1,2 @@
+2026-05-08T23:13:20.230686100 - Contraseña no cumple requisitos: 77777yyy
+2026-05-08T23:13:32.392199700 - Login incorrecto: el@el.com
